@@ -1,7 +1,7 @@
 # Shopeasy-Android-App
 Shopeasy is an Android application developed to encourage tool sharing among users, helping reduce unnecessary purchases and promoting a cost-effective, community-driven approach to resource usage.
 
-📱 Project Overview
+ Project Overview
 Many tools are used only occasionally, yet people spend money buying them. Share-Ur-Tools solves this problem by allowing users to share, borrow, and lend tools easily through a mobile application.
 
 The app provides a simple and user-friendly interface where users can:
