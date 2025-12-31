@@ -28,10 +28,26 @@ Platform: Android
  A complete demo video of the application has been recorded showing:
 https://github.com/muski630346/Shopeasy-Android-App/blob/main/freecompress-Recording%202025-12-31%20122103.mp4
 
-<p align="center">
-  <img src="https://github.com/muski630346/Shopeasy-Android-App/blob/main/Screenshot%202025-12-31%20124641.png" width="300">
-  <img src="" width="300">
-</p>
+## 📸 App Screenshots
+
+<table>
+  <tr>
+    <td align="center">
+      <img src="https://github.com/muski630346/Shopeasy-Android-App/blob/main/Screenshot%202025-12-31%20124641.png" width="250">
+    </td>
+    <td align="center">
+      <img src="https://github.com/muski630346/Shopeasy-Android-App/blob/main/Screenshot%202025-12-31%20124706.png" width="250">
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://github.com/muski630346/Shopeasy-Android-App/blob/main/Screenshot%202025-12-31%20124725.png" width="250">
+    </td>
+    <td align="center">
+      <img src="https://github.com/muski630346/Shopeasy-Android-App/blob/main/Screenshot%202025-12-31%20124800.png" width="250">
+    </td>
+  </tr>
+</table>
 
 # Installation & Setup
 Clone the repository
