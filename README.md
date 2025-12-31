@@ -29,7 +29,7 @@ Platform: Android
 https://github.com/muski630346/Shopeasy-Android-App/blob/main/freecompress-Recording%202025-12-31%20122103.mp4
 
 <p align="center">
-  <img src="" width="300">
+  <img src="https://github.com/muski630346/Shopeasy-Android-App/blob/main/Screenshot%202025-12-31%20124641.png" width="300">
   <img src="" width="300">
 </p>
 
